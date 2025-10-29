@@ -21,11 +21,15 @@ Current products in the application include books, computer games and movies. Bu
 - **Data Sync**
   - Fetch mock data from external API
   - Sync local inventory with central server
+- **Search By id, name**
+  - Search products by ID or name from the product table
 - **Analytics**
-  - Sales breakdown
-  - Stock vs. Price trend visualization
+  - Sales breakdown per product
+  - Stock vs. Price trend visualization per product
 
 ## Screenshots
+
+### A preview of some of the features in the application. 
 
 ### 1. Welcome Screen
 ![Welcome Screen](Screenshots/Entry_page.png)
@@ -70,6 +74,7 @@ Current products in the application include books, computer games and movies. Bu
 3. Press F5 to build and run
 
 4. The app will auto-fetch mock data from the external API on launch.
+
 
 
 
