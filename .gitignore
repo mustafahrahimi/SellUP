@@ -1,0 +1,75 @@
+# =========================================================
+
+# .gitignore for SellUP (Windows Forms C# – Visual Studio)
+
+# =========================================================
+
+
+# --- Visual Studio folder (IDE cache, IntelliSense, etc.) ---
+
+.vs/
+
+
+# --- Build artifacts ------------------------------------------------
+
+bin/
+
+obj/
+
+
+# --- User-specific project files ------------------------------------
+
+SellUp.csproj.user
+
+*.user
+
+*.suo
+
+*.userosscache
+
+*.sln.docstates
+
+
+# --- Local database -------------------------
+
+Database/
+
+*.csv
+
+# --- NuGet packages -------------------------------
+
+packages/
+
+*.nupkg
+
+# --- Secrets / local config ----------------------------------------
+
+appsettings.*.json
+
+secrets.json
+
+*.pfx
+
+*.cer
+
+*.key
+
+
+# --- OS / editor junk -----------------------------------------------
+
+Thumbs.db
+
+ehthumbs.db
+
+Desktop.ini
+
+$RECYCLE.BIN/
+
+*.lnk
+
+
+# =========================================================
+
+# END OF FILE
+
+# =========================================================
