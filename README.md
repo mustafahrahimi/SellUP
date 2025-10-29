@@ -3,11 +3,10 @@
 **SellUP** is a lightweight desktop application built in **C# using Windows Forms**, designed to manage **inventory** and **sales**. 
 
 It offers a clean, user-friendly interface to track stock levels, maintain product information, process sales transactions, 
-and generate reports — all within a reliable and responsive Windows environment.
+and generate reports â€” all within a reliable and responsive Windows environment.
 
-Currently, SellUP integrates with an **external API** to **fetch and insert mock data**, like books, computer games and movies. But 
-
-can be developed further to support other types of data as well.
+Currently, SellUP integrates with an **external API** to **fetch and insert mock data** with realtime updates from the external API.
+Current products in the application include books, computer games and movies. But can be developed further to support other types of data as well.
 
 ## Features
 
@@ -71,6 +70,7 @@ can be developed further to support other types of data as well.
 3. Press F5 to build and run
 
 4. The app will auto-fetch mock data from the external API on launch.
+
 
 
 
