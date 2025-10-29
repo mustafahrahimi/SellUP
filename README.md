@@ -29,7 +29,7 @@ can be developed further to support other types of data as well.
 ## Screenshots
 
 ### 1. Welcome Screen
-![Welcome Screen](Screenshots/Entry__page.png)
+![Welcome Screen](Screenshots/Entry_page.png)
 
 ### 2. Inventory Management
 ![Inventory Management](Screenshots/Stocks.png)
